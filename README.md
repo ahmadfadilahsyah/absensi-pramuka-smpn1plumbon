@@ -4,7 +4,6 @@
 ![Login](screenshot/tampilan_login.png)
 
 ### Dashboard Admin
-![Dashboard Admin](screenshot/tampilan_dashboard_admin.png)
 
 ### Laporan Absensi
 ![Laporan](screenshot/tampilan_laporanr.png)
