@@ -1,15 +1,23 @@
-<a href="https://youtu.be/ttjcRAel0vc?si=HF-jURW3CZk9jig3">Link tugas vidio promosi web</a>
+# 🎥 Video Promosi Website
 
-## Cuplikan Layar (Screenshots)
+[![Tonton Video Promosi](https://img.youtube.com/vi/ttjcRAel0vc/0.jpg)](https://youtu.be/ttjcRAel0vc?si=HF-jURW3CZk9jig3)
 
-### Halaman Login
-![Login](screenshot_project/tampilan_login.png)
+**Klik gambar di atas untuk menonton video promosi** atau akses langsung: [Link tugas video promosi web](https://youtu.be/ttjcRAel0vc?si=HF-jURW3CZk9jig3)
 
-### Dashboard Admin
-![Dashboard Admin](screenshot_project/tampilan_dashboard_admin.png)
+---
 
-### Laporan Absensi
-![Laporan](screenshot_project/tampilan_laporan.png)
+## 📸 Cuplikan Layar (Screenshots)
 
-### Dashboard Anggota
-![Dashboard Anggota](screenshot_project/tampilan_dashboard_user.png)
+<div align="center">
+
+| Halaman Login | Dashboard Admin |
+|:---:|:---:|
+| ![Login](screenshot_project/tampilan_login.png) | ![Dashboard Admin](screenshot_project/tampilan_dashboard_admin.png) |
+
+| Laporan Absensi | Dashboard Anggota |
+|:---:|:---:|
+| ![Laporan](screenshot_project/tampilan_laporan.png) | ![Dashboard Anggota](screenshot_project/tampilan_dashboard_user.png) |
+
+</div>
+
+> 💡 *Pastikan folder `screenshot_project/` berisi file gambar dengan nama yang sesuai.*
